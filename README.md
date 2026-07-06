@@ -1,4 +1,4 @@
-# Avionics Power Deliver (Communications Module, Ground Station, etc)
+# Avionics Communications (Communications Module, Ground Station, etc)
 > 2023-2025 Season - Communications Projects
 
 -  Repo contains board's **firmware**, **schematics**, and related **documentation and datasheets**.
